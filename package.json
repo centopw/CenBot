@@ -1,0 +1,16 @@
+{
+  "name": "censim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "centopw",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "discord.js-temporary-channel": "^1.0.0",
+    "moment": "^2.27.0"
+  }
+}
