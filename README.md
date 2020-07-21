@@ -8,7 +8,8 @@ Setup.
 =============
 
 Make sure you have install [nodejs](https://nodejs.org)
-   Navigate to project folder and install all dependencies:
+
+Navigate to project folder and install all dependencies:
    
    ``$ npm i``
 
