@@ -1,7 +1,7 @@
 CenBot.
 ===========
 
-Discord bot make with [nodejs](https://nodejs.org)
+A Discord bot make with Love and [nodejs](https://nodejs.org)
 
 
 Setup.
@@ -23,11 +23,11 @@ Add or remove command.
 
 Go to ``/commands`` 
 
-Ex: to make bot say hi go to ``commands`` create a file name ``hi.js`` and add the modules
+Ex: to make bot say hi, go to ``commands`` create a file name ``hi.js`` and add
 
 ```node
 const Discord = require("discord.js")
-const botconfig = require("../botsettings.json");
+const botconfig = require("../botsettings.json");//load bot config
 
 module.exports.run = async (bot, message, args) => {
     return message.channel.send("Hello") //return the text Hello
