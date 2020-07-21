@@ -42,6 +42,10 @@ module.exports.config = {
     aliases: ['h'] //another way to use the command
 }
 ```
+Dependencies.
+============
+  - discord.js
+  - moment
 
 ToDo.
 ====
