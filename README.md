@@ -67,3 +67,4 @@ centopw@gmail.com
 Or make a Issues post 
 
 Join out Discord Community [DevHub](https://discord.gg/BVu2SaC)
+<iframe src="https://discordapp.com/widget?id=483209992980135936&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
