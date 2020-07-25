@@ -68,4 +68,4 @@ centopw@gmail.com
 
 Join out community [DevHub](https://discord.gg/BVu2SaC)
 
-
+[![Support Server](https://discordapp.com/api/guilds/483209992980135936/widget.png?style=banner2)](https://discord.gg/BVu2SaC)
