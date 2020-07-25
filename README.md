@@ -64,6 +64,6 @@ Contact
 =======
 For all Question contact me:
 centopw@gmail.com
-Or make a Issues post 
+Join out community (DevHub)[https://discord.gg/BVu2SaC]
 
 
