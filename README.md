@@ -2,6 +2,12 @@ CenBot.
 ===========
 [![Discord Users Online](https://discordapp.com/api/guilds/483209992980135936/widget.png?style=shield)](https://discord.gg/BVu2SaC)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=alert_status)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=security_rating)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=ncloc)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
+
 A Discord bot make with Love and [nodejs](https://nodejs.org)
 
 
