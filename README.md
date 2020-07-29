@@ -8,7 +8,7 @@ CenBot.
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=security_rating)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=ncloc)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
 
-A Discord bot make with Love and [nodejs](https://nodejs.org)
+A Discord bot make with Love and [nodejs](https://nodejs.org).
 
 
 Setup.
