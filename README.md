@@ -62,7 +62,7 @@ ToDo.
  - A full document on how to setup & run
  
  
-Source code
+Source code.
 ===========
 
 https://github.com/centopw/CenBot
