@@ -1,4 +1,4 @@
-CenBot
+CenBot.
 ===========
 [![Discord Users Online](https://discordapp.com/api/guilds/483209992980135936/widget.png?style=shield)](https://discord.gg/BVu2SaC)
 
